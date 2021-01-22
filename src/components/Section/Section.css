@@ -1,0 +1,12 @@
+.section {
+  max-width: 350px;
+  margin: 0 auto 20px;
+  padding: 10px;
+  background-color: lightgrey;
+  border: 1px solid green;
+  border-radius: 10px;
+}
+
+.sectionTitle {
+  text-align: center;
+}
